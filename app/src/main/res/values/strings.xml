@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calcular_interes</string>
+    <string name="Monto">Ingrese cantidad de capital</string>
+    <string name="IngInte">Ingrese el interes</string>
+    <string name="IngNPer">Ingrese el numero de Periodos</string>
+
+</resources>
